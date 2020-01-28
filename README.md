@@ -1,5 +1,5 @@
 
-## Python-for-Bioinformatics
+# Python for Bioinformatics
 
 Contains scripts coded in base python to solve basic biological data problems.
 
